@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FPS_LemoineYoenn",
+			"Path": "..\\Source\\FPS_LemoineYoenn.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FPS_LemoineYoennEditor",
+			"Path": "..\\Source\\FPS_LemoineYoennEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

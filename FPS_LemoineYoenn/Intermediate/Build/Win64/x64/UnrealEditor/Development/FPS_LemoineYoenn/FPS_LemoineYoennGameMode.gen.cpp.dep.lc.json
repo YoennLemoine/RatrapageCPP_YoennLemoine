@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\ylemoine\\documents\\unreal projects\\fps_lemoineyoenn\\intermediate\\build\\win64\\unrealeditor\\inc\\fps_lemoineyoenn\\uht\\fps_lemoineyoenngamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\ylemoine\\documents\\unreal projects\\fps_lemoineyoenn\\intermediate\\build\\win64\\x64\\fps_lemoineyoenneditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\ylemoine\\documents\\unreal projects\\fps_lemoineyoenn\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\fps_lemoineyoenn\\definitions.fps_lemoineyoenn.h",
+            "c:\\users\\ylemoine\\documents\\unreal projects\\fps_lemoineyoenn\\source\\fps_lemoineyoenn\\fps_lemoineyoenngamemode.h",
+            "c:\\program files\\epic games\\5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\5.3\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\ylemoine\\documents\\unreal projects\\fps_lemoineyoenn\\intermediate\\build\\win64\\unrealeditor\\inc\\fps_lemoineyoenn\\uht\\fps_lemoineyoenngamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

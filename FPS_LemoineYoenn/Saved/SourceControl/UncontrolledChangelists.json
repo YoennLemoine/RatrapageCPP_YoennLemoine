@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ylemoine/Documents/Unreal Projects/FPS_LemoineYoenn/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+				"C:/Users/ylemoine/Documents/Unreal Projects/FPS_LemoineYoenn/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"C:/Users/ylemoine/Documents/Unreal Projects/FPS_LemoineYoenn/Content/UW_HUD.uasset",
+				"C:/Users/ylemoine/Documents/Unreal Projects/FPS_LemoineYoenn/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/ylemoine/Documents/Unreal Projects/FPS_LemoineYoenn/Content/FirstPersonArms/Animations/FirstPerson_AnimBP.uasset"
+			]
+		}
+	]
+}

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\FPS_LemoineYoenn.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FPS_LemoineYoenn.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\FPS_LemoineYoennEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\FPS_LemoineYoenn">
+      <UniqueIdentifier>{D2706BDB-F38A-3F1D-8B81-BA2F0A841A46}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FPS_LemoineYoenn\FPS_LemoineYoenn.Build.cs">
+      <Filter>Source\FPS_LemoineYoenn</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\FPS_LemoineYoenn\FPS_LemoineYoenn.cpp">
+      <Filter>Source\FPS_LemoineYoenn</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPS_LemoineYoenn\FPS_LemoineYoenn.h">
+      <Filter>Source\FPS_LemoineYoenn</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPS_LemoineYoenn\FPS_LemoineYoennCharacter.cpp">
+      <Filter>Source\FPS_LemoineYoenn</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPS_LemoineYoenn\FPS_LemoineYoennCharacter.h">
+      <Filter>Source\FPS_LemoineYoenn</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPS_LemoineYoenn\FPS_LemoineYoennGameMode.cpp">
+      <Filter>Source\FPS_LemoineYoenn</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPS_LemoineYoenn\FPS_LemoineYoennGameMode.h">
+      <Filter>Source\FPS_LemoineYoenn</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPS_LemoineYoenn\FPS_LemoineYoennPlayerController.cpp">
+      <Filter>Source\FPS_LemoineYoenn</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPS_LemoineYoenn\FPS_LemoineYoennPlayerController.h">
+      <Filter>Source\FPS_LemoineYoenn</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPS_LemoineYoenn\FPS_LemoineYoennProjectile.cpp">
+      <Filter>Source\FPS_LemoineYoenn</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPS_LemoineYoenn\FPS_LemoineYoennProjectile.h">
+      <Filter>Source\FPS_LemoineYoenn</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPS_LemoineYoenn\TP_PickUpComponent.cpp">
+      <Filter>Source\FPS_LemoineYoenn</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPS_LemoineYoenn\TP_PickUpComponent.h">
+      <Filter>Source\FPS_LemoineYoenn</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPS_LemoineYoenn\TP_WeaponComponent.cpp">
+      <Filter>Source\FPS_LemoineYoenn</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPS_LemoineYoenn\TP_WeaponComponent.h">
+      <Filter>Source\FPS_LemoineYoenn</Filter>
+    </ClInclude>
+    <Filter Include="Source\FPS_LemoineYoenn\Private">
+      <UniqueIdentifier>{18FF1BB6-C63D-38FF-8E23-D8F996BF6FE4}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\FPS_LemoineYoenn\Private\AFPSCharacter.cpp">
+      <Filter>Source\FPS_LemoineYoenn\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\FPS_LemoineYoenn\Private\AFPSProjectile.cpp">
+      <Filter>Source\FPS_LemoineYoenn\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\FPS_LemoineYoenn\Private\MyHUD.cpp">
+      <Filter>Source\FPS_LemoineYoenn\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\FPS_LemoineYoenn\Public">
+      <UniqueIdentifier>{44D9E87D-83D7-3F07-9E14-BFCFF29EFE80}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\FPS_LemoineYoenn\Public\AFPSCharacter.h">
+      <Filter>Source\FPS_LemoineYoenn\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\FPS_LemoineYoenn\Public\AFPSProjectile.h">
+      <Filter>Source\FPS_LemoineYoenn\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\FPS_LemoineYoenn\Public\MyHUD.h">
+      <Filter>Source\FPS_LemoineYoenn\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
